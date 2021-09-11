@@ -1,0 +1,2 @@
+body{margin:0}button{border:none}.container{display:flex;flex-direction:column;justify-content:center;align-items:center;height:100vh}.App{padding:20px;border-radius:10px;border:2px solid #e1c2ff;background-color:#f0e1ff}.App__buttons{display:flex;height:-webkit-min-content;height:min-content;grid-gap:20px;gap:20px}.App__button{padding:10px;border-radius:5px;color:#875ab4;background-color:#fff;transition:.3s}.App__button:hover{color:#fff;background-color:#875ab4}.App__error-message{color:#875ab4}
+/*# sourceMappingURL=main.6902e577.chunk.css.map */
